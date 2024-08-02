@@ -1,0 +1,4 @@
+fn main() {
+    println!("First, code in rust language");
+  
+}
